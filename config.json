@@ -1,0 +1,48 @@
+{
+   "token":"discord bot token",
+   "cookies":"b= b token; a= a token",
+   "form_payload":[
+      [
+         "reset_page",
+         "1"
+      ],
+      [
+         "page",
+         "1"
+      ],
+      [
+         "q",
+         "protogen"
+      ],
+      [
+         "do_search",
+         "Search"
+      ],
+      [
+         "order-by",
+         "date"
+      ],
+      [
+         "order-direction",
+         "desc"
+      ],
+      [
+         "range",
+         "5years"
+      ],
+      [
+         "rating-general",
+         "1"
+      ],
+      [
+         "type-art",
+         "1"
+      ],
+      [
+         "mode",
+         "extended"
+      ]
+   ],
+   "blacklist": ["ych", "adopt", "adoptable", "reminder"],
+   "postgres_login": "host=localhost user=postgres password=password"
+}
